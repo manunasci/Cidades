@@ -1,0 +1,16 @@
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\bin\Debug\net5.0\Cidades.exe
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\bin\Debug\net5.0\Cidades.deps.json
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\bin\Debug\net5.0\Cidades.runtimeconfig.json
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\bin\Debug\net5.0\Cidades.runtimeconfig.dev.json
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\bin\Debug\net5.0\Cidades.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\bin\Debug\net5.0\ref\Cidades.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\bin\Debug\net5.0\Cidades.pdb
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\obj\Debug\net5.0\Cidades.csproj.AssemblyReference.cache
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\obj\Debug\net5.0\Cidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\obj\Debug\net5.0\Cidades.AssemblyInfoInputs.cache
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\obj\Debug\net5.0\Cidades.AssemblyInfo.cs
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\obj\Debug\net5.0\Cidades.csproj.CoreCompileInputs.cache
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\obj\Debug\net5.0\Cidades.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\obj\Debug\net5.0\ref\Cidades.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\obj\Debug\net5.0\Cidades.pdb
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Programas\Terceiro programa\Cidades\obj\Debug\net5.0\Cidades.genruntimeconfig.cache
