@@ -1,2 +1,2 @@
 # Cidades
-Programa em C# que mostra as cidades do litoral sul paulista
+Programa em C# que mostra as cidades do litoral sul paulista, para ETEC
